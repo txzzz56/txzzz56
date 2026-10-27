@@ -4,14 +4,13 @@
   <img src="./assets/banner.svg" alt="Mumtaz A Cade – Fullstack-utvikler, maskinlæring og forretningsanalyse" width="100%">
 </p>
 
-## Hei 👋, jeg er Mumtaz!
+## Hei 👋, jeg heter Mumtaz!
 
 - 💻 **Siste års student i IT og informasjonssystemer** ved Universitetet i Sørøst-Norge (USN), og jeg elsker å bygge fullstack-webapper
 - 🌱 **Lærer nå:** Maskinlæring og forretningsanalyse
 - 🔭 **Jobber med:** Prosjekter innen maskinlæring og forretningsanalyse med SQL
 - 🎯 **Åpen for:** Graduate-stillinger og internship i Norge
-- 📫 **Kontakt meg:** mumtazcade8@gmail.com
- · [LinkedIn](www.linkedin.com/in/mumtaz-abdirahmaan-cade-b51a58314)
+- 📫 **Kontakt meg:** [mumtazcade8@gmail.com](mailto:mumtazcade8@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mumtaz-abdirahmaan-cade-b51a58314)
 - ⚡ **Fun fact:** Jeg har bodd i Storbritannia, Tyrkia og Norge, og har jobbet i helsesektoren ved siden av studiene
 
 <img src="./assets/divider.svg" width="100%" alt="">
