@@ -1,4 +1,4 @@
-<!-- Bytt ut DIN_EPOST og DIN_LINKEDIN med dine egne opplysninger -->
+
 
 <p align="center">
   <img src="./assets/banner.svg" alt="Mumtaz A Cade – Fullstack-utvikler, maskinlæring og forretningsanalyse" width="100%">
@@ -47,8 +47,7 @@
 | Prosjekt | Hva det gjør | Laget med |
 |---|---|---|
 | ✂️ **[Zheila's Salon](https://github.com/txzzz56/zheilas-salon)** | Fullstack bookingapp for en frisørsalong, med innlogging via engangskode på e-post | React · TypeScript · Tailwind · Express · PostgreSQL · Prisma |
-| ⚡ **[Level Up System](https://github.com/txzzz56/levelup-system)** | Spillifisert vanetracker: daglige oppdrag gir XP og gull, og ferdighetene går opp i nivå | React · Vite |
-| 🌦️ **[WeatherApp](https://github.com/txzzz56/WeatherApp)** | Værapp | Java |
+| 🌦️ **[WeatherApp](https://github.com/txzzz56/WeatherApp)** | Weather app | Java |
 | 💸 **[TipCalculator](https://github.com/txzzz56/TipCalculator)** | Tipskalkulator | Kotlin |
 
 **Flere repoer:** [Queue](https://github.com/txzzz56/Queue) (Java) · [tall-liste](https://github.com/txzzz56/tall-liste) (Python) · [Eaze Helsejournal](https://github.com/txzzz56/Eaze_Helsejournal) (JavaScript, gruppeprosjekt)
